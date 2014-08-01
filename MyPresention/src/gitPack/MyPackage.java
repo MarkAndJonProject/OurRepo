@@ -2,8 +2,10 @@ package gitPack;
 
 public class MyPackage {
 	public static void main(String[] args) {
-		System.out.println("Hello World");
-		System.out.println("Hello World 2");
-		System.out.println("Hello World 3");
+		for (int i = 1; i < 101; i++){
+			System.out.println("Hello World " + i + 1);
+			
+		}
+		
 	}
 }
