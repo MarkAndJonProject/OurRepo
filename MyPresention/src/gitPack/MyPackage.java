@@ -1,0 +1,7 @@
+package gitPack;
+
+public class MyPackage {
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
